@@ -1,7 +1,6 @@
 # 📊📈📉📊 Business-Case-Cyclistic
 
 C'est l'opportunité d'utiliser toutes nos connaissances sur un nouveau jeu de données.
-Dans nos futurs métiers, nous avons un sujet business, à essayer de le résoudre au mieux. Nous vous faisons confiance : nous allons faire une très bonne analyse.
 
 ## 🎯 Objectifs du Business Case:
 
@@ -15,19 +14,21 @@ Dans nos futurs métiers, nous avons un sujet business, à essayer de le résoud
 
 ## 🧠 KPIs Principaux:
 
-  I) Sémantique ? 
-  - Quelles sont les principales catégories d'emploi dans la data ?
-  - Où se trouve cette catégorie dans le monde ?
+  I) Tendances et variations :
+  - Quelle est la tendance générale de l'utilisation des vélos en libre-service à Londres sur la période étudiée ?
+  - Quelles sont les variations saisonnières et quotidiennes les plus significatives de l'utilisation des vélos ?
+  - Comment les conditions météorologiques et les jours fériés influencent-ils l'utilisation des vélos ?
   
-  II) Entreprise & Contrat 
-  - Quels contrats sont les plus représentés ?
-  - Qu'en est-il de la taille de l'entreprise ?
+  II) Utilisation et répartition :
+  - Quelle est la moyenne de vélos partagés par jour et par heure ?
+  - Quelles sont les heures de pointe et les jours de la semaine les plus populaires pour l'utilisation des vélos ?
+  - Comment l'utilisation des vélos se répartit-elle entre les différentes saisons et les conditions météorologiques ?
   
-  III) Salaire et catégorie ?
-  - Quels sont les métiers les mieux payés ?
+  III) Analyse comparative :
+  - Comment l'utilisation des vélos en libre-service varie-t-elle entre les jours de semaine et les week-ends ?
+  - Quelles sont les différences d'utilisation entre les différentes saisons (printemps, été, automne, hiver) ?
+  - Comment les conditions météorologiques affectent-elles l'utilisation des vélos par rapport aux autres facteurs (saison, jour de la semaine, heure) ?
 
 ## 📊 Dashboards: 
 
-![Image](https://github.com/user-attachments/assets/07345e2c-25b9-490a-8386-c1326db3079e)
-
-![Image](https://github.com/user-attachments/assets/3284accd-4c7e-420e-8d85-9117cb266d73)
+![Image](https://github.com/user-attachments/assets/24e02f41-c62b-460d-ac22-478e9c1211ca)
