@@ -1,4 +1,4 @@
-# 📊📈📉📊 Business-Case-Cyclistic
+# 📊📈📉📊 London Bike Sharing
 
 C'est l'opportunité d'utiliser toutes nos connaissances sur un nouveau jeu de données.
 
@@ -11,6 +11,7 @@ C'est l'opportunité d'utiliser toutes nos connaissances sur un nouveau jeu de d
 ## 🧰 Outils Principaux: 
 
 - Power BI
+- Python
 
 ## 🧠 KPIs Principaux:
 
